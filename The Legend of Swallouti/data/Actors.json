@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$Jake Walk","classId":1,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"Anim_JakeNormal","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jake Frost","nickname":"","note":"<Starting Skill Slots: 3>","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$Jake Walk","classId":1,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"Jake Normal","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jake Frost","nickname":"","note":"<Starting Skill Slots: 3>","profile":""},
 {"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"$Apollo Walk","classId":2,"equips":[1,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Apollo","nickname":"","note":"<Starting Skill Slots: 3>","profile":""},
 {"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"$ViktoriyaWalk","classId":3,"equips":[2,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Viktoriya","nickname":"","note":"<Starting Skill Slots: 4>","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":0,"characterName":"$Catherine Walk","classId":4,"equips":[5,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[{"code":34,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Catherine","nickname":"","note":"<Starting Skill Slots: 4>","profile":""},
-{"id":5,"battlerName":"Actor1_4","characterIndex":3,"characterName":"$IngridWalking","classId":1,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ingrid Frost","nickname":"","note":"<Starting Skill Slots: 4>","profile":""}
+{"id":5,"battlerName":"Actor1_4","characterIndex":3,"characterName":"$IngridWalking","classId":1,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":10,"maxLevel":99,"name":"Ingrid Frost","nickname":"","note":"<Starting Skill Slots: 4>","profile":""}
 ]
