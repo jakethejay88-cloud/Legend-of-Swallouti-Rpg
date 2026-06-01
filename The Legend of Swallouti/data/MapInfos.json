@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"Opening Cutscene","order":1,"parentId":0,"scrollX":651,"scrollY":371},
 {"id":2,"expanded":false,"name":"Enemies","order":2,"parentId":1,"scrollX":651,"scrollY":363},
 {"id":3,"expanded":false,"name":"Respawn Area","order":4,"parentId":0,"scrollX":651,"scrollY":829},
-{"id":4,"expanded":true,"name":"Tower Outside","order":5,"parentId":0,"scrollX":1754,"scrollY":2006},
-{"id":5,"expanded":true,"name":"Tower 1F","order":6,"parentId":4,"scrollX":651,"scrollY":640},
+{"id":4,"expanded":true,"name":"Tower Outside","order":5,"parentId":0,"scrollX":1886,"scrollY":1853},
+{"id":5,"expanded":true,"name":"Tower 1F","order":6,"parentId":4,"scrollX":651,"scrollY":609},
 {"id":6,"expanded":false,"name":"Event Templates","order":3,"parentId":1,"scrollX":651,"scrollY":371}
 ]
